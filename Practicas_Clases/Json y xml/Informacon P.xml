@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nombre>reyna</nombre>
+<edad>20</edad>
+<materias>
+<materia>Redes de computadoras</materia>
+<materia>Programacion web</materia>
+<materia>Desarrollo de emprendedore</materia>
+<materia>taller de investigacion</materia>
+<materia>Sistemas operativos</materia>
+<materia>Tecnologias inalambricas</materia>
+</materias>
+<Telefono>4651352088</Telefono>
+<SerieFavoritas>
+<SerieFavorita>Desde cero</SerieFavorita>
+<SerieFavorita>besos kitty</SerieFavorita>
+<SerieFavorita>Elite</SerieFavorita>
+<SerieFavoritas>yo nunca</SerieFavorita>
+<SerieFavorita>Estamos muertos</SerieFavorita>
+</SerieFavoritas>
+<ArtistasFavoritos>
+<ArtistaFavorito>Peso pluma</ArtistaFavorito>
+<ArtistaFavorito> Julion alvarez</ArtistaFavorito>
+<ArtistaFavorito>Ivan cornejo</ArtistaFavorito>
+<ArtistaFavorito>Mana</ArtistaFavorito>
+<ArtistaFavorito>Eden muñoz</ArtistaFavorito>
+</ArtistasFavoritos>
+<Canciones>
+<Cancion>El paciente</Cancion>
+<Cancion>Una bala </Cancion>
+<Cancion>Hasta la muerte</Cancion>
+<Cancion>Rayando el sol</Cancion>
+<Cancion>Mientes tan bien</Cancion>
+</Canciones>
